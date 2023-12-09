@@ -1,6 +1,6 @@
 # Summary
 
-* [Introduction](docs/Introduction.md)
+* [Introduction](docs/introduction.md)
 
 ## Cloud or self hosted
 
