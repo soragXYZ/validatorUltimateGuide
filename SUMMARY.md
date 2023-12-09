@@ -1,17 +1,13 @@
 # Summary
 
-* [Introduction](README.md)
+* [Introduction](docs/Introduction.md)
 
 ## Cloud or self hosted
 
-* [First pages title](page1/README.md)
-    * [Some child page](page1/page1-1.md)
-    * [Some other child page](part1/page1-2.md)
-
-* [Second pages title](page2/README.md)
-    * [Some child page](page2/page2-1.md)
-    * [Some other child page](part2/page2-2.md)
+* [First pages title](docs/page1/a.md)
+    * [Some child page](docs/page1/b.md)
+    * [Some other child page](docs/page1/c.md)
 
 ## A second-page group
 
-* [Yet another page](another-page.md)
+* [Yet another page](d.md)
