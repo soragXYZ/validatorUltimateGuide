@@ -1,6 +1,8 @@
-# Introduction
+# Summary
 
-## Self hosted or Cloud ?
+* [Introduction](README.md)
+
+## Cloud or self hosted
 
 * [First pages title](page1/README.md)
     * [Some child page](page1/page1-1.md)
