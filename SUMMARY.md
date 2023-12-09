@@ -1,6 +1,6 @@
-# Summary
+# Introduction
 
-## Use headings to create page groups like this one
+## Self hosted or Cloud ?
 
 * [First pages title](page1/README.md)
     * [Some child page](page1/page1-1.md)
