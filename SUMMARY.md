@@ -3,19 +3,17 @@ SUMMARY.md
 
 * [Introduction](docs/introduction.md)
 
+
 ## Cloud or self hosted
 
 * [Which one is better](docs/cloudOrSelfHosted/whichOneIsBetter.md)
-### Self Hosted
-* [To Do](docs/cloudOrSelfHosted/selfHosted/toDo.md)
-### Cloud
-* [To Do](docs/cloudOrSelfHosted/cloud/toDo.md)
+* [Cloud](docs/cloudOrSelfHosted/cloud/introduction.md)
+    * [Physical considerations](docs/cloudOrSelfHosted/cloud/physicalConsiderations.md)
+    * [Legal terms](docs/cloudOrSelfHosted/cloud/legalTerms.md)
+* [Self hosted](docs/cloudOrSelfHosted/selfHosted/introduction.md)
+    * [Physical considerations](docs/page1/b.md)
+
 
 ## A second-page group
 
 * [Yet another page](docs/d.md)
-
-.gitbook.yaml
-structure:
-  readme: ./docs/introduction.md
-  summary: ./SUMMARY.md
