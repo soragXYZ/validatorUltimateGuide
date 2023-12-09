@@ -5,9 +5,7 @@ SUMMARY.md
 
 ## Cloud or self hosted
 
-* [First pages title](docs/page1/a.md)
-    * [Some child page](docs/page1/b.md)
-    * [Some other child page](docs/page1/c.md)
+* [Which one is better](docs/cloudOrSelfHosted/prosAndCons.md)
 
 ## A second-page group
 
