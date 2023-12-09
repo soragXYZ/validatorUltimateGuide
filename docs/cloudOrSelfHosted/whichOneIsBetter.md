@@ -4,7 +4,7 @@ Should I host my node at home, or in the cloud ?
 There is no definitive answer to this question. Each choice has its own advantages and drawbacks, and you need to be aware of the consequences of each choice and act accordingly.
 
 {% hint style="info" %}
-Personally, I run my nodes at home, because I prefer to increase the decentralization and to have more control over my hardware
+Personally, I run my nodes at home, because I prefer to increase the decentralization and to have more control over my hardware.
 {% endhint %}
 
 ## Self hosted

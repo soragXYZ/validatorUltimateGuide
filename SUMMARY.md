@@ -5,7 +5,11 @@ SUMMARY.md
 
 ## Cloud or self hosted
 
-* [Which one is better](docs/cloudOrSelfHosted/prosAndCons.md)
+* [Which one is better](docs/cloudOrSelfHosted/whichOneIsBetter.md)
+### Self Hosted
+* [To Do](docs/cloudOrSelfHosted/selfHosted/toDo.md)
+### Cloud
+* [To Do](docs/cloudOrSelfHosted/cloud/toDo.md)
 
 ## A second-page group
 
