@@ -10,4 +10,4 @@
 
 ## A second-page group
 
-* [Yet another page](d.md)
+* [Yet another page](docs/d.md)
