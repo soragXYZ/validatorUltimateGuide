@@ -1,5 +1,3 @@
-# Which one is better ?
-
 Should I host my node at home, or in the cloud ?  
 There is no definitive answer to this question. Each choice has its own advantages and drawbacks, and you need to be aware of the consequences of each choice and act accordingly.  
 For a more detailed analysis, please refer to the [cloud section](docs/cloudOrSelfHosted/cloud/introduction.md), or the [self hosted section](docs/cloudOrSelfHosted/selfHosted/introduction.md).
@@ -39,7 +37,7 @@ In the long term, say 2 or 3 years, it will probably be costlier to host your no
 # To summarize
 ​
 | Category                      | Self Hosted | Cloud Provider |
-|-------------------------------|-------------|----------------|
+|-------------------------------|:-----------:|:--------------:|
 | Decentralization              | ✅          | ❌            |
 | Flexibility                   | ✅          | ❌            |
 | Work and configuration needed | ❌          | ✅            |
