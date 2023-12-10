@@ -1,5 +1,3 @@
-# Physical considerations
-
 Running a node at home is a challenging task, since there are a lot of things that can go wrong, and thus need to be adressed.
 
 # Electricity
