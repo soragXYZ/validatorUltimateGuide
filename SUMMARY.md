@@ -16,23 +16,23 @@ SUMMARY.md
 
 ## Securing your node
 
-* [Operating System](docs/construction.md)
-* [Enable Automatic Security Updates](docs/construction.md)
-* [Encrypt your data with LUKS](docs/construction.md)
-* [The root user](docs/construction.md)
-* [SSH](docs/construction.md)
-    * [Generate your keys](docs/construction.md)
-    * [Disable login via password](docs/construction.md)
-    * [Enable Two-Factor Authentication](docs/construction.md)
-* [Enable a firewall](docs/construction.md)
-* [Brute-Force and DDoS Protection](docs/construction.md)
+* [Operating System](docs/securingYourNode/operatingSystem.md)
+* [Enable Automatic Security Updates](docs/securingYourNode/automaticSecurityUpdates.md)
+* [Encrypt your data with LUKS](docs/securingYourNode/encryptData.md)
+* [The root user](docs/securingYourNode/rootUser.md)
+* [SSH](docs/securingYourNode/SSH/introduction.md)
+    * [Generate your keys](docs/securingYourNode/SSH/generateKeys.md)
+    * [Disable login via password](docs/securingYourNode/SSH/passwordLogin.md)
+    * [Enable Two-Factor Authentication](docs/securingYourNode/SSH/MFA.md)
+* [Enable a firewall](docs/securingYourNode/firewall.md)
+* [Brute-Force and DDoS Protection](docs/securingYourNode/fail2ban.md)
 
 
 ## Monitoring
 
-* [Prometheus and Grafana](docs/construction.md)
+* [Prometheus and Grafana](docs/monitoring/prometheusGrafana.md)
 
 ## In case of emergency
 
-* [Disaster Recovery Plan](docs/construction.md)
-* [Ansible](docs/construction.md)
+* [Disaster Recovery Plan](docs/emergency/DRP.md)
+* [Ansible](docs/emergency/ansible.md)

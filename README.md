@@ -1,3 +1,3 @@
 # validatorUltimateGuide
 
-ok test
+To be documented
