@@ -20,9 +20,10 @@ SUMMARY.md
 * [Enable Automatic Security Updates](docs/construction.md)
 * [Encrypt your data with LUKS](docs/construction.md)
 * [The root user](docs/construction.md)
-* [SSH](docs/docs/construction.md)
-    * [Disable login via password](docs/docs/construction.md)
-    * [Enable Two-Factor Authentication](docs/docs/construction.md)
+* [SSH](docs/construction.md)
+    * [Generate your keys](docs/construction.md)
+    * [Disable login via password](docs/construction.md)
+    * [Enable Two-Factor Authentication](docs/construction.md)
 * [Enable a firewall](docs/construction.md)
 * [Brute-Force and DDoS Protection](docs/construction.md)
 
