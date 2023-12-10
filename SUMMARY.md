@@ -11,7 +11,7 @@ SUMMARY.md
     * [Physical considerations](docs/cloudOrSelfHosted/cloud/physicalConsiderations.md)
     * [Legal terms](docs/cloudOrSelfHosted/cloud/legalTerms.md)
 * [Self hosted](docs/cloudOrSelfHosted/selfHosted/introduction.md)
-    * [Physical considerations](docs/page1/b.md)
+    * [Physical considerations](docs/cloudOrSelfHosted/selfHosted/physicalConsiderations.md)
 
 
 ## A second-page group
