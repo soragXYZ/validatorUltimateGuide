@@ -16,22 +16,22 @@ SUMMARY.md
 
 ## Securing your node
 
-* [Operating System](docs/toDo.md)
-* [Enable Automatic Security Updates](docs/toDo.md)
-* [Encrypt your data with LUKS](docs/toDo.md)
-* [The root user](docs/toDo.md)
-* [SSH](docs/docs/toDo.md)
-    * [Disable login via password](docs/docs/toDo.md)
-    * [Enable Two-Factor Authentication](docs/docs/toDo.md)
-* [Enable a firewall](docs/toDo.md)
-* [Brute-Force and DDoS Protection](docs/toDo.md)
+* [Operating System](docs/construction.md)
+* [Enable Automatic Security Updates](docs/construction.md)
+* [Encrypt your data with LUKS](docs/construction.md)
+* [The root user](docs/construction.md)
+* [SSH](docs/docs/construction.md)
+    * [Disable login via password](docs/docs/construction.md)
+    * [Enable Two-Factor Authentication](docs/docs/construction.md)
+* [Enable a firewall](docs/construction.md)
+* [Brute-Force and DDoS Protection](docs/construction.md)
 
 
 ## Monitoring
 
-* [Prometheus and Grafana](docs/toDo.md)
+* [Prometheus and Grafana](docs/construction.md)
 
-## In cas of emergency
+## In case of emergency
 
-* [Disaster Recovery Plan](docs/toDo.md)
-* [Ansible](docs/toDo.md)
+* [Disaster Recovery Plan](docs/construction.md)
+* [Ansible](docs/construction.md)
