@@ -34,5 +34,6 @@ SUMMARY.md
 
 ## In case of emergency
 
+* [Back up your keys](docs/emergency/keysbackup.md)
 * [Disaster Recovery Plan](docs/emergency/DRP.md)
 * [Ansible](docs/emergency/ansible.md)
