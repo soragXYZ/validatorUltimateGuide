@@ -16,6 +16,7 @@ SUMMARY.md
 
 ## Securing your node
 
+* [General principles](docs/securingYourNode/generalPrinciples.md)
 * [Operating System](docs/securingYourNode/operatingSystem.md)
 * [Enable Automatic Security Updates](docs/securingYourNode/automaticSecurityUpdates.md)
 * [Encrypt your data with LUKS](docs/securingYourNode/encryptData.md)

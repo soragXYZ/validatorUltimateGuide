@@ -29,7 +29,7 @@ Unattended-Upgrade::Automatic-Reboot-Time "02:00";
 When you are done adding your changes, save with Ctrl+O and Enter, then exit with Ctrl+X.  
 
 {% hint style="info" %} The above configuration updates the package list, downloads, and installs available upgrades every day. The local download archive is cleaned every week.  
-If needed, your system will reboot at 2AM, **without confirmation**. {% endhint %}
+If needed, your system will reboot at 2AM, without confirmation. {% endhint %}
 
 Make sure to load the new settings, by restarting the service :
 ```shell
