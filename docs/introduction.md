@@ -18,7 +18,8 @@ That's when I thought, ok, let's write one then !
 
 # The who
 
-This guide is aimed at people running a node in a mainnet network. It does not matter if you are an individual or an organisation. You have to take measures to keep your node up and running.
+This guide is aimed at people running a node in a mainnet network. It does not matter if you are an individual or an organisation. You have to take measures to keep your node up and running.  
+{% hint style="info" %} This guide assumes that you have basic Linux understanding. {% endhint %}
 
 
 # Contribute
