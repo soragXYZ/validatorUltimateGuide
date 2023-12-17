@@ -3,7 +3,9 @@ In general, your machine should only accept network traffic on ports that your n
 
 To enforce that and prevent any unexpected or undesirable traffic, we can install a **firewall** on the node.
 
-{% hint style="info" %} You need to edit the ports below to reflect your settings. {% endhint %}
+{% hint style="info" %}
+You need to edit the ports below to reflect your settings.
+{% endhint %}
 
 Ubuntu and other distributions comes with **ufw** installed by default (the uncomplicated firewall), which is a convenient utility for managing your node's firewall settings.
 
@@ -48,4 +50,4 @@ sudo ufw enable
 ```
 
 # Additional links
-[Ubuntu wiki](https://wiki.ubuntu.com/UncomplicatedFirewall)
+- [Ubuntu wiki](https://wiki.ubuntu.com/UncomplicatedFirewall)

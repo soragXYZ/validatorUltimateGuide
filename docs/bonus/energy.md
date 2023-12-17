@@ -2,7 +2,9 @@
 Energy is important, and sometimes costly. So it is usefull to reduce your energy consumption. It can also increase by a bit your hardware lifespan, because with less power consumption, your hardware will run cooler. This is especially true if your hardware is a laptop, because the screen, useless in this case, will still draw power even when powered-off.  
 This is where powertop comes in, which is a convenient utility written by Intel for managing your power consumption.
 
-{% hint style="info" %} If you want to measure your power consumption before and after modifications, you can do it with a kill-a-watt kind of plug. {% endhint %}
+{% hint style="info" %}
+If you want to measure your power consumption before and after modifications, you can do it with a kill-a-watt kind of plug.
+{% endhint %}
 
 # How It Works
 powertop displays an overview of the consumption of applications and system peripherals, and usage statistics for different processors and peripherals. Finally, it proposes improvements to reduce unnecessary demands on processors and thus save energy, mainly by using C-state. 
@@ -47,7 +49,9 @@ sudo systemctl enable powertop.service
 ```
 
 # Disable your screen
-{% hint style="info" %} This part is usefull only if you are running your node on a laptop, or something with an integrated screen. {% endhint %}
+{% hint style="info" %}
+This part is usefull only if you are running your node on a laptop, or something with an integrated screen.
+{% endhint %}
 
 99% of the time, we do not need to have the screen on.  
 Even when the screen is off, it will still draw power. You can check it with powertop in the tab Device stats: Display backlight.  
@@ -79,4 +83,4 @@ sudo systemctl enable screenoff.service
 ```
 
 # Additional links
-[Arch Linux wiki](https://wiki.archlinux.org/title/powertop)
+- [Arch Linux wiki](https://wiki.archlinux.org/title/powertop)

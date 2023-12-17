@@ -31,8 +31,10 @@ Unattended-Upgrade::Automatic-Reboot "true";
 Unattended-Upgrade::Automatic-Reboot-Time "02:00";
 ``` 
 
-{% hint style="info" %} The above configuration updates the package list, downloads, and installs available upgrades every day. The local download archive is cleaned every week.  
-If needed, your system will reboot at 2AM, without confirmation. {% endhint %}
+{% hint style="info" %}
+The above configuration updates the package list, downloads, and installs available upgrades every day. The local download archive is cleaned every week.  
+If needed, your system will reboot at 2AM, without confirmation.
+{% endhint %}
 
 Make sure to load the new settings, by restarting the service :
 ```shell
@@ -42,4 +44,4 @@ sudo systemctl restart unattended-upgrades
 If you want to check the details of the upgrades, you can go in the **/var/log/unattended-upgrades/** directory.
 
 # Additional links
-[Debian wiki](https://wiki.debian.org/UnattendedUpgrades)
+- [Debian wiki](https://wiki.debian.org/UnattendedUpgrades)

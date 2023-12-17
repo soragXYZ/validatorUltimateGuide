@@ -50,4 +50,4 @@ sudo fail2ban-client status sshd
 ```
 
 # Additional links
-[Github project page](https://github.com/fail2ban/fail2ban)
+- [Github project page](https://github.com/fail2ban/fail2ban)
