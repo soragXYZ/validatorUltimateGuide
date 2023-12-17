@@ -62,7 +62,7 @@ You will now see a big QR code on your screen; scan it with your Google Authenti
 Record the emergency scratch codes somewhere safe in case you need to log into the machine but don't have your 2FA app handy. Without the app, you will no longer be able to SSH into the machine!
 {% endhint %}
 
-Finally, it will ask you for some more parameters; the recommended defaults are fine.  
+Finally, it will ask you for some more parameters; the recommended defaults are fine (y everywhere).  
 Once you're done, restart sshd so it grabs the new settings:
 ```shell
 sudo systemctl restart sshd
@@ -73,3 +73,4 @@ When you try to SSH into your server with your SSH keys, you should now also be 
 # Additional links
 - [How TOTP authenticator apps work](https://fastmail.blog/2016/07/22/how-totp-authenticator-apps-work/)
 - [TOTP based MFA](https://jemurai.com/2018/10/11/how-it-works-totp-based-mfa/)
+- [Google authenticator PAM module](https://github.com/google/google-authenticator-libpam)
