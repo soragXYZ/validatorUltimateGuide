@@ -6,8 +6,8 @@ Luckily, there is an alternative way to log in via SSH: an SSH key pair.
 # How It Works
 SSH key pairs work similarly to blockchain wallets; they come with a public part (such as your wallet address) and a private part (the private key for your wallet address):
 
-- You provide the public part to your node.  This way, the node knows you're allowed to connect to it, and it knows that it's really you trying to connect.
-- You keep the private part to yourself on your client machine. This way, you (and only you) can connect to your node.  You can (and should!) protect the private part with a password, so someone who steals your key can't use it.
+- You provide the public part to your node. This way, the node knows you're allowed to connect to it, and it knows that it's really you trying to connect.
+- You keep the private part to yourself on your client machine. This way, you and only you can connect to your node.  You can ***and should!*** protect the private part with a password, so someone who steals your key can't use it.
 
 # Goal
 From a computer's perspective, the private key is exponentially harder to crack than a password is. This mitigates the risk of a brute-force attack against your node.
@@ -37,7 +37,7 @@ If you are comfortable with the default setting, simply press Enter.
 After, you will be asked to enter a password. This will become the password for the private key itself. Whenever you use the key to connect to your node, you will need to enter this password first.
 
 {% hint style="danger" %}
-You should not leave this blank - otherwise, anyone with the SSH key file will be able to use it! Pick a good password that you (and only you) will know.  
+You should not leave this blank - otherwise, anyone with the SSH key file will be able to use it! Pick a good password that you and only you will know.  
 Also, don't forget your password - there is no way to recover this password if you lose it.
 {% endhint %}
 
@@ -48,7 +48,8 @@ To copy the public key on your node, run the following command on your client ma
 ssh-copy-id -i $HOME/.ssh/id_ed25519.pub username@node.ip.address
 ```
 
-It will then prompt you for the password of the user on your node machine. Note that this is not the password of the SSH key, but the password of your node.  
+It will then prompt you for the password of the user on your node machine.  
+Note that this is not the password of the SSH key, but the password of your node.  
 
 You should now be able to ssh into the node like you normally would, but now you will not have to type the password of the user account.  
 
