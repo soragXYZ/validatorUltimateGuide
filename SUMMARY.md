@@ -38,3 +38,7 @@ SUMMARY.md
 * [Back up your keys](docs/emergency/keysbackup.md)
 * [Disaster Recovery Plan](docs/emergency/DRP.md)
 * [Ansible](docs/emergency/ansible.md)
+
+## Bonus
+
+* [Save energy](docs/bonus/energy.md)

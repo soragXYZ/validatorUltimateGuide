@@ -1,9 +1,14 @@
+# Why
 Every day, new vulnerabilities are found, on hardware and software.  
 
 These vulnerabilities can be exploited to gain unauthorized access on your operating system.  
-Fortunately, operating System vendors routinely publish updates and security fixes, so it is important that you keep your system up to date with the latest patches. The easiest way to do this is to enable automatic updates.
+Fortunately, operating System vendors routinely publish updates and security fixes, so it is important that you keep your system up to date with the latest patches. Unless you plan on checking your server every day, you want a way to automatically update the system. The easiest way to do this is to enable automatic updates.
 
-Run the following commands on your node machine :
+# Goals
+Automatic, unattended, updates of critical security patches
+
+# How to
+Run the following commands on your machine :
 ```shell
 sudo apt update
 sudo apt install -y unattended-upgrades update-notifier-common
@@ -24,9 +29,7 @@ Unattended-Upgrade::Remove-Unused-Dependencies "true";
 Unattended-Upgrade::Remove-New-Unused-Dependencies "true";
 Unattended-Upgrade::Automatic-Reboot "true";
 Unattended-Upgrade::Automatic-Reboot-Time "02:00";
-```
-
-When you are done adding your changes, save with Ctrl+O and Enter, then exit with Ctrl+X.  
+``` 
 
 {% hint style="info" %} The above configuration updates the package list, downloads, and installs available upgrades every day. The local download archive is cleaned every week.  
 If needed, your system will reboot at 2AM, without confirmation. {% endhint %}
@@ -37,3 +40,6 @@ sudo systemctl restart unattended-upgrades
 ```
 
 If you want to check the details of the upgrades, you can go in the **/var/log/unattended-upgrades/** directory.
+
+# Additional links
+https://wiki.debian.org/UnattendedUpgrades

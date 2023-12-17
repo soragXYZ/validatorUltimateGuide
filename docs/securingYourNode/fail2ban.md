@@ -36,15 +36,18 @@ Here we created a jail for SSH that tells fail2ban to look at SSH logs and use u
 
 You can change the maxretry setting, which is the number of attempts it will allow before locking the offending address out.
 
-Do not forget to restart the service :
+Do not forget to restart the service:
 ```shell
 sudo systemctl restart fail2ban
 ```
 
-To check the status :
+To check the status:
 ```shell
 sudo fail2ban-client status
 ```
 ```shell
 sudo fail2ban-client status sshd
 ```
+
+# Additional links
+https://github.com/fail2ban/fail2ban
