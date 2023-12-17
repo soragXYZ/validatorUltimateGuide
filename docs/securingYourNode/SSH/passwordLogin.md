@@ -3,7 +3,7 @@ Even though you have an SSH key pair set up, your node will still allow other ma
 This defeats the entire purpose of using SSH keys in the first place, so the next step is to disable those.
 
 # How It Works
-Simply deactivate SSH login via login and password. It will make sure that the only way to connect to your node is via SSH key pair.
+Simply deactivate SSH login via login and password. It will make sure that the only way to connect to your node is via SSH key pair (or directly on site with a keyboard).
 
 # Goal
 Improve SSH connexion security.
