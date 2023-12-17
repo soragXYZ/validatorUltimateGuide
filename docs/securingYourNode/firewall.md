@@ -18,11 +18,9 @@ UFW works by letting you configure rules that:
 You can create rules by explicitly specifying the ports or with application configurations that specify the ports.
 
 # Goals
-Block all traffic network, input and output, except those we explicitly allow
+Block all traffic network, input and output, except those we explicitly allow.
 
 # How to
-The following commands will set ufw up with a good default configuration for your Smartnode. Run these on your node machine.
-
 If ufw is not already installed, you need to install it:
 ```bash
 sudo apt install -y ufw
@@ -50,4 +48,4 @@ sudo ufw enable
 ```
 
 # Additional links
-https://wiki.ubuntu.com/UncomplicatedFirewall
+[Ubuntu wiki](https://wiki.ubuntu.com/UncomplicatedFirewall)

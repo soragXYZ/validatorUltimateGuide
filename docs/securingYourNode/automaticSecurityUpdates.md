@@ -42,4 +42,4 @@ sudo systemctl restart unattended-upgrades
 If you want to check the details of the upgrades, you can go in the **/var/log/unattended-upgrades/** directory.
 
 # Additional links
-https://wiki.debian.org/UnattendedUpgrades
+[Debian wiki](https://wiki.debian.org/UnattendedUpgrades)
