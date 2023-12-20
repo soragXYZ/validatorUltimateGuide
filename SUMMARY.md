@@ -13,6 +13,12 @@ SUMMARY.md
 * [Self hosted](docs/cloudOrSelfHosted/selfHosted/introduction.md)
     * [Physical considerations](docs/cloudOrSelfHosted/selfHosted/physicalConsiderations.md)
 
+## Hardware
+
+* [CPU](docs/hardware/cpu.md)
+* [RAM](docs/hardware/ram.md)
+* [Storage](docs/hardware/storage.md)
+* [Network](docs/hardware/network.md)
 
 ## Securing your node
 
@@ -31,11 +37,13 @@ SUMMARY.md
 
 ## Monitoring
 
+* [Basics](docs/monitoring/basics.md)
 * [Prometheus and Grafana](docs/monitoring/prometheusGrafana.md)
 
 ## In case of emergency
 
 * [Back up your keys](docs/emergency/keysbackup.md)
+* [Slashing and QoS](docs/emergency/slashingAndQOS.md)
 * [Disaster Recovery Plan](docs/emergency/DRP.md)
 * [Ansible](docs/emergency/ansible.md)
 

@@ -1,0 +1,5 @@
+- CPU Usage
+- Free RAM remaining
+- Swap space usage (if you enabled it)
+- Remaining free disk space
+- Network I/O (if your ISP imposes a data cap)
