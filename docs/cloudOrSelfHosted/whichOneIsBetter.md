@@ -1,6 +1,6 @@
 Should I host my node at home, or in the cloud ?  
 There is no definitive answer to this question. Each choice has its own advantages and drawbacks, and you need to be aware of the consequences of each choice and act accordingly.  
-For a more detailed analysis, please refer to the [cloud section](docs/cloudOrSelfHosted/cloud/introduction.md), or the [self hosted section](docs/cloudOrSelfHosted/selfHosted/introduction.md).
+For a more detailed analysis, please refer to the [cloud section](docs/cloudOrSelfHosted/cloud.md), or the [self hosted section](docs/cloudOrSelfHosted/selfHosted.md).
 
 {% hint style="info" %}
 Personally, I run my nodes at home, because I prefer to increase the decentralization and to have more control over my hardware.
@@ -30,7 +30,7 @@ Each clearly displayed in your contract with the cloud provider. You get exactly
 ​
 ## Cons
 * Less control and flexibility:  
-You can only choose what cloud provider are offering
+You can only choose what cloud provider are offering. Note that it is possible to bring your own hardware to the data center, this is called colocation.
 * Cost in the long run:  
 In the long term, say 2 or 3 years, it will probably be costlier to host your node in the cloud than hosting it yourself (electricity bill included)
 ​

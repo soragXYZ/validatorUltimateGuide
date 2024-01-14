@@ -1,1 +1,0 @@
-In this part of the guide, you will find every point that you need to take into account if you want to host your node in the cloud.

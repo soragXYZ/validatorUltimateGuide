@@ -22,4 +22,4 @@ This guide assumes that you have basic Linux understanding.
 # Contribute
 Feel free to reach out to me if you think that you can improve this documentation somehow : every contribution to this guide is welcomed!
 
-So please, submit pull requests, and contribute to the common good. [Here](https://github.com/soragXYZ/validatorUltimateGuide/tree/EN) is the source code.
+So please, submit pull requests, and contribute to the common good. [Here is the source code](https://github.com/soragXYZ/validatorUltimateGuide/tree/EN).

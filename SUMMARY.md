@@ -7,11 +7,8 @@ SUMMARY.md
 ## Cloud or self hosted
 
 * [Which one is better](docs/cloudOrSelfHosted/whichOneIsBetter.md)
-* [Cloud](docs/cloudOrSelfHosted/cloud/introduction.md)
-    * [Physical considerations](docs/cloudOrSelfHosted/cloud/physicalConsiderations.md)
-    * [Legal terms](docs/cloudOrSelfHosted/cloud/legalTerms.md)
-* [Self hosted](docs/cloudOrSelfHosted/selfHosted/introduction.md)
-    * [Physical considerations](docs/cloudOrSelfHosted/selfHosted/physicalConsiderations.md)
+* [Cloud](docs/cloudOrSelfHosted/cloud.md)
+* [Self hosted](docs/cloudOrSelfHosted/selfHosted.md)
 
 ## Hardware
 
