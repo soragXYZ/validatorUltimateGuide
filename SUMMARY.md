@@ -17,7 +17,7 @@ SUMMARY.md
 * [RAM](docs/hardware/ram.md)
 * [Storage](docs/hardware/storage.md)
 * [Network](docs/hardware/network.md)
-* [NUC example](docs/hardware/NUC.md)
+* [Examples](docs/hardware/examples.md)
 
 ## Securing your node
 

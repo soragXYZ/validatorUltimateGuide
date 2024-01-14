@@ -2,7 +2,7 @@ This part of the guide will help you to select the core components of your node,
 
 # Requirements
 When you want to spin up a node for a network, the first thing to look out for is the requirements.  
-Every espectable project have this part in their documentation.  
+Every respectable project have this part in their documentation.  
 
 Some networks are more ressource intensive than others. Some require more computational power, some require more bandwith, so you need to size your hardware according to the project prerequisites.  
 

@@ -24,4 +24,5 @@ When we compare CPU's, we weigh a number of important factors, such as clock spe
 
 But really, in a nutshell, it comes down to how much computing can be done when all parts of a CPU come together in a single clock cycle. If performing Task X takes two clock cycles on CPU A and one clock cycle on CPU B, then CPU B might be the better processor even if CPU A has a higher clock speed.  
 
+# Additional links
 Here is an [handy website](https://www.cpubenchmark.net/singleCompare.php) to compare different CPU's.
