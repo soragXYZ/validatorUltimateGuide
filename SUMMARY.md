@@ -12,10 +12,12 @@ SUMMARY.md
 
 ## Hardware
 
+* [Selecting hardware](docs/hardware/selectingHardware.md)
 * [CPU](docs/hardware/cpu.md)
 * [RAM](docs/hardware/ram.md)
 * [Storage](docs/hardware/storage.md)
 * [Network](docs/hardware/network.md)
+* [NUC example](docs/hardware/NUC.md)
 
 ## Securing your node
 
