@@ -8,6 +8,7 @@ SUMMARY.md
 
 * [Which one is better](docs/cloudOrSelfHosted/whichOneIsBetter.md)
 * [Cloud](docs/cloudOrSelfHosted/cloud.md)
+* [Comparing cloud hardware](testing.md)
 * [Self hosted](docs/cloudOrSelfHosted/selfHosted.md)
 
 ## Hardware
