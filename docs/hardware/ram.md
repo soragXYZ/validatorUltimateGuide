@@ -48,7 +48,10 @@ Error correction code (ECC) memory is a type of RAM memory more commonly found i
 Physically, ECC memory differs from non-ECC memory (like what consumer laptop / desktop RAM uses) in that it has 9 memory chips instead of 8 (memory chips are used to store data that is sent to the CPU when summoned). ECC RAM’s bonus memory chip is used for error detection and correction among the other eight memory chips.  
 Note that consumer motherboards and processors do not usually support ECC-compatible RAM.
 
+# Test your RAM
+To do
+
 # Additional links
 - [RAM explanation](https://www.makeuseof.com/tag/quick-dirty-guide-ram-need-know/)
 - [Single or dual channel RAM](https://history-computer.com/single-vs-dual-channel-ram/)
-- [compare RAM](https://pangoly.com/en/compare/ram)
+- [Compare RAM](https://pangoly.com/en/compare/ram)

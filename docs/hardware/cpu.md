@@ -22,7 +22,10 @@ CPU naming can be deceptive; an Intel Core i5 from 2010 is usually less powerful
 # How to compare CPUs
 When we compare CPU's, we weigh a number of important factors, such as clock speed, number of cores, tdp, socket type and class (desktop, laptop, mobile device).  
 
-But really, in a nutshell, it comes down to how much computing can be done when all parts of a CPU come together in a single clock cycle. If performing Task X takes two clock cycles on CPU A and one clock cycle on CPU B, then CPU B might be the better processor even if CPU A has a higher clock speed.  
+But really, in a nutshell, it comes down to how much computing can be done when all parts of a CPU come together in a single clock cycle. If performing Task X takes two clock cycles on CPU A and one clock cycle on CPU B, then CPU B might be the better processor even if CPU A has a higher clock speed.
+
+# Test your CPU
+To do
 
 # Additional links
 Here is an [handy website](https://www.cpubenchmark.net/singleCompare.php) to compare different CPU's.
